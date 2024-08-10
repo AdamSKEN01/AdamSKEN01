@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamSKEN01
-- 👀 I’m interested in coding some stuff up.
+- 👀 I occasionally code working things, but absolute garbage most of the time.
 - 🌱 I’m currently learning Lua using the Love2D game engine.
 - 🆕 I'm just getting started. But if I ever want to publish something, I got a place for it.
 
