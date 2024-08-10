@@ -2,6 +2,7 @@
 - 👀 I occasionally code working things, but absolute garbage most of the time.
 - 🌱 I’m currently learning Lua using the Love2D game engine.
 - 🆕 I'm just getting started. But if I ever want to publish something, I got a place for it.
+- ❓ Also, I have absolutely no idea what I'm doing. But maybe sometime soon...
 
 <!---
 AdamSKEN01/AdamSKEN01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
