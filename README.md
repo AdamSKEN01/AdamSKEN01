@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamSKEN01
 - 👀 I’m interested in coding some stuff up.
 - 🌱 I’m currently learning Lua using the Love2D game engine.
-- I'm just getting started. But if I ever want to publish something, I got a place for it.
+- 🆕 I'm just getting started. But if I ever want to publish something, I got a place for it.
 
 <!---
 AdamSKEN01/AdamSKEN01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
